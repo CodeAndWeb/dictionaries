@@ -10,7 +10,7 @@
                 <value>DICT_SPELL</value>
             </prop>
             <prop oor:name="Locales" oor:type="oor:string-list">
-                <value>bs bs-BA</value>
+                <value>bs-Latn-BA</value>
             </prop>
         </node>
     </node>
